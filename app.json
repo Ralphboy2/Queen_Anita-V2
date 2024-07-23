@@ -1,5 +1,5 @@
 {
-    "name": "Queen_Anita-V2",
+    "name": "𝙈𝙍 𝙍𝘼𝙇𝙋𝙃𝘽𝙊𝙔",
     "description": "Simple WhatsApp Bot",
     "logo": "https://i.imgur.com/H4qeXwa.jpeg",
     "keywords": ["DeeCeeXxx", "Anita-V2", "Queen_Anita"],
@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Queen_Anita-V2",
+        "value": "𝙈𝙍 𝙍𝘼𝙇𝙋𝙃𝘽𝙊𝙔",
         "required": true
       },
   
@@ -40,7 +40,7 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "Queen_Anita-V2"
+        "value": "𝙈𝙍 𝙍𝘼𝙇𝙋𝙃𝘽𝙊𝙔"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -103,11 +103,11 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2349066528353"
+        "value": "2348109273709"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
-        "value": ""
+        "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoia0M4M0tpOGVLL2FnN3VKcVM4ZkNKTU5nTmpqTGxPSmxEb0JZcGVKUnlXaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTVNiRHhwMENtcE5mVTVPdkNWZHFPcWZBSTZpaklZUzZNem53dzFnbEwyWT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIwQ1FLMjY2V211WHNuY0F0cVVoZkpLUHhnQlIwc0JSSEFTZG1XRllRWDNJPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJwMG05VmpMMlJ3OS9nTkdsZHVOaWlKdmtYVEV4Ym1HZkRieGZwT1p4bTF3PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjRBY3Jlb09UQW92ZFFkdHJMUkY1cXlYa0tLUkpLeGZwNk5DV1I3dzNoRmc9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkMyYU1YRkV1V3JaMndFUW5BOWRRS2FJckhSc2gwZWtESWwwZWpDNm9TUlk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib05FRHNwMGNuTzF2cUovN3lmK1FXMC9JOW1IU2VvOWxkbnNJN3B5b1hrcz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQWFCdnRZQTBXbjJzb0Vtc0NYcnl6eTFweks3czZtZ2hXN3JndW9XUW1Dbz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlZKSU0za2tWV09keWZEcm55K1dMYllVQUFsT2dPbWE1SllLcHpKTFp4SzVLaU15N0Zaa1NHT1lLbDFkMFVtblh4cU9xUmtHZUZKeHVzVmtiTWxZRmp3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjQwLCJhZHZTZWNyZXRLZXkiOiJoMjN2MEt6bTBoTkJRKzZTanA4eVQxb0ZMMFVHVDZzczRoajI0RDRSUlRJPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjIzNDgxMDkyNzM3MDlAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiQ0Y0ODBGOEM2QUJCODRFMERENkUwQkVDM0U1NEE4QkIifSwibWVzc2FnZVRpbWVzdGFtcCI6MTcyMTc3MDcyNn0seyJrZXkiOnsicmVtb3RlSmlkIjoiMjM0ODEwOTI3MzcwOUBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiI4OUIxNjEwOEI4RDU1NTg1RDA1MTY3MzUxRTlBQkM5NyJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzIxNzcwNzI2fV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJxcjJUaFlsWVN5NnA3YTN4YmZ2NG5nIiwicGhvbmVJZCI6IjZkMDZkZmMxLTZiZWItNDNhMS04NTJlLThiNTFiMWU3OTRmNyIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJYYXlDeHBzMzU5ZUVmWi8za2hiWkVQV1BQT2c9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidHZxQlk1Q2NkS21OK2pXOTJwVjRFZVJSYXp3PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlJXU0VWVExXIiwibWUiOnsiaWQiOiIyMzQ4MTA5MjczNzA5OjExQHMud2hhdHNhcHAubmV0IiwibmFtZSI6IvCdmYjwnZmNIPCdmY3wnZi88J2Zh/CdmYvwnZmD8J2YvfCdmYrwnZmUIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNLdWc0K1VHRU5mRmdMVUdHQUVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiI1NjJCWGhoODlwWUwwSStMYW03UXNxMnhWaEkvK1ZYbGlHREVoWktTclVNPSIsImFjY291bnRTaWduYXR1cmUiOiJVNDhLMzNJcTU0N0Q2TWhEN3ZOWFV0S0NSN3NoSmx0S3RUcWdTV1NrZUV4ZGQvRklwME01N0t3UTFKOGErdGhVZU5sd25Nb3phMWczT2Fhc3VhWTlCZz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiSDlucHZ1OUN5TnRmbkFpbTI4OFYrdlVPaFJkSDNyU0hJeXBvZTZUUVpWZUZwc1EwdmZSMDZ0YVJuUHYxeEZPRk05dStBS2VtRVpjZFFMR1FBeFI5anc9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMzQ4MTA5MjczNzA5OjExQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmVldGdWNFlmUGFXQzlDUGkycHUwTEt0c1ZZU1AvbFY1WWhneElXU2txMUQifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjE3NzA3MjQsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBTnQ3In0="
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
